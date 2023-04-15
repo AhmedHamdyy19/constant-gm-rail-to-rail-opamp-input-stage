@@ -1,6 +1,6 @@
 # Constant gm rail-to-rail OP-AMP input stage
 
-The purpose of this project is to design a constant-gm rail-to-rail CMOS operational amplifier input stage, based on the research paper "Low-voltage constant-gm rail-to-rail CMOS operational amplifier input stage" by Yan Lu and Ruohe Yao (2008). The proposed architecture allows the amplifier to operate at low voltage levels while maintaining a constant transconductance and rail-to-rail input range. The goal of this project is to implement and validate the proposed architecture through simulation using 0.13μm CMOS technology.
+The purpose of this project is to design a constant-gm rail-to-rail CMOS operational amplifier input stage based on the research paper "Low-voltage constant-gm rail-to-rail CMOS operational amplifier input stage" by Yan Lu and Ruohe Yao (2008). The proposed architecture allows the amplifier to be operated at low voltage levels while maintaining a constant transconductance and rail-to-rail input range. This modified design is intended to trade slightly higher gm variation for lower power consumption. The performance of the modified architecture will be verified through simulation using 0.13μm CMOS technology.
 
 ### Circuit Schematic
 ![alt text](https://user-images.githubusercontent.com/90058055/232256666-76c88fa7-b7ec-400e-9a05-571a0c868944.png "Circuit Schematic")
