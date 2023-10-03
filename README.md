@@ -11,7 +11,7 @@ The output load capacitor represents the compensation capacitor used for the des
 ![alt text](https://user-images.githubusercontent.com/90058055/232256734-c402d689-bc01-49b5-9ac5-ee7decdabc5e.jpg "Gm")
 
 
-### GBW
+### UGF
 ![alt text](https://user-images.githubusercontent.com/90058055/232256766-15c6201b-e2a2-408f-a50b-6dceb6fda88c.jpg "GBW")
 
-GBW is nearly constant with input common mode variations due to Gm equalization.
+UGF is nearly constant with input common mode variations due to Gm equalization.
